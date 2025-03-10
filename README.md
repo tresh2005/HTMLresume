@@ -23,7 +23,6 @@ cd html-resume
 
 Open the index.html file in a browser to view the resume.
 Edit the HTML file to update personal details, work experience, education, and skills.
-
 Modify the CSS file (style.css) to customize styles and layout.
 
 Customization:
@@ -39,7 +38,7 @@ GitHub Pages
 Netlify
 Vercel
 
-Example Deployment on GitHub Pages
+Example Deployment on GitHub Pages:
 
 Push the project to a GitHub repository.
 Go to Settings > Pages in your repository.
